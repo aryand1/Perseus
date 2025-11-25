@@ -779,7 +779,7 @@ for triple, log in results.verification_logs.items():
 
 ## Acknowledgments
 
-This work was developed at Kansas State University's Department of Computer Science. We thank:
+We thank:
 - Domain experts who reviewed ontology outputs and provided constructive feedback
 - The open-source community for foundational tools (Stanza, Hugging Face Transformers, scikit-learn)
 - CaRB benchmark maintainers for providing standardized evaluation datasets
